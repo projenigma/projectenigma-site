@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Objective
 
-You can use the [editor on GitHub](https://github.com/projenigma/projectenigma.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Project Enigma aims to employ mechanical puzzles and science toys towards improving the lives of vulnerable communities, namely the elderly and disadvantaged teens in Singapore.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Approach
 
-### Markdown
+We plan to do this by bringing the toys closer to the communities through a library-like system, loaning out kits to individuals and organizations. Curiosities will be carefully selected, arranged and offered at an affordable cost. The items that we offer will also be hand-held, portable and durable.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Potential Impacts
+- Develop better focus and memory, delay onset of dementia among the elderly
+- Spark curiosity in Science and related fields among youth
+- Derive satisfaction from solving a puzzle & boost self-esteem and confidence
+- Hone critical thinking and problem solving skills
+- Promote self-directed learning and discovery
+- Train visual and spatial reasoning
+- Bond with family and friends & relieve stress
+- Alternative for video games or outdoor activities
+- Simplify complex phenomena
 
-```markdown
-Syntax highlighted code block
+View our feature on the Resilience and Growth Innovation Challenge site [here](https://nus.edu.sg/cfg/rg/InnovChallenge/winners/project-enigma) and download our publicity flyer [here](https://github.com/projenigma/projectenigma-site/files/6256144/Project.Enigma_Poster.pdf).
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/projenigma/projectenigma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Reach us at hello@projectenigma.org!
