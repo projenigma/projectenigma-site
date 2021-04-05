@@ -1,8 +1,10 @@
-## Objective
+# Hi there, welcome!
+
+## Our Objective
 
 Project Enigma aims to employ mechanical puzzles and science toys towards improving the lives of vulnerable communities, namely the elderly and disadvantaged teens in Singapore.
 
-## Approach
+## Our Approach
 
 We plan to do this by bringing the toys closer to the communities through a library-like system, loaning out kits to individuals and organizations. Curiosities will be carefully selected, arranged and offered at an affordable cost. The items that we offer will also be hand-held, portable and durable.
 
@@ -16,9 +18,13 @@ We plan to do this by bringing the toys closer to the communities through a libr
 - Bond with family and friends & relieve stress
 - Alternative for video games or outdoor activities
 - Simplify complex phenomena
+- And more!
 
-View our feature on the Resilience and Growth Innovation Challenge site [here](https://nus.edu.sg/cfg/rg/InnovChallenge/winners/project-enigma) and download our publicity flyer [here](https://github.com/projenigma/projectenigma-site/files/6256144/Project.Enigma_Poster.pdf).
+### Further Links
 
-### Contact
+1. View our feature on the Resilience and Growth Innovation Challenge site [here](https://nus.edu.sg/cfg/rg/InnovChallenge/winners/project-enigma).
+2. Download our publicity flyer [here](https://github.com/projenigma/projectenigma-site/files/6256144/Project.Enigma_Poster.pdf).
+
+### Contact Us
 
 Reach us at hello@projectenigma.org!
